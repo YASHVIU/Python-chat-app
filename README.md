@@ -15,5 +15,6 @@ Initially when the user opens the application, the interface reads out  all the 
 The sender's speech is converted to text and can be sent by either a voice command or pressing a button which is arranged in a user friendly way.  
 At the receiver's end the received message is converted to speech that the user listens to.  
 Thus this technology easily enables Visually Impaired people to chat.  
-Following is a preview of how the system works:
+Following is a preview of how the system works:  
+  
  ![PChat app preview](UI.gif)
