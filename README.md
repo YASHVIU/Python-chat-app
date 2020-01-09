@@ -1,8 +1,9 @@
 # Python-chat-app
 
-An application which enables Visually Imapired people to communicate (Chat).  
+###An application which enables Visually Imapired people to communicate (Chat).  
 It uses a client to client communication model.  
-Initially when the user opens the application, the interface reads out  all the steps, for eg -   
+Initially when the user opens the application, the interface reads out  all the steps, for eg - ###
+  
 **System :** Please say Yes to open and No to continue.   
 **System:** You have got 5 notifications. Would you like to check those?  
 **User:** NO  
