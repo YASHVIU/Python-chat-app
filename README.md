@@ -2,7 +2,6 @@
 
 An application which enables Visually Imapired people to communicate (Chat).  
 It uses a client to client communication model.  
-Initially when the user opens the application, the interface reads out  all the steps, for eg:
   
  # How it Works?
 **System :** Please say Yes to open and No to continue.   
@@ -22,5 +21,4 @@ Thus this technology easily enables Visually Impaired people to chat.
 <br>
 
 # Interface Preview
-<br>
  ![PChat app preview](UI.gif)
